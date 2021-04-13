@@ -1,4 +1,4 @@
-# mitsubishimotor
+# mitsubishi plc asenkron motorun sıcaklık ile kontrolü
 Asenkron motorun Mitsubishi PLC ile sıcaklık kontrollü çalıştırılması
 Proje sona yaklaşmıştır.
 IVCK fonksiyon bloğu ile hız verisi GOT2000 ekrana yansıtılmak üzere alınır.
