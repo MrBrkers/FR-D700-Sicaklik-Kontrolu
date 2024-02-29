@@ -1,4 +1,4 @@
-# mitsubishi plc asenkron motorun sıcaklık ile kontrolü
+# Asynchronous motor speed control with temperature (FX5U PLC)
 Videolu Sunum için :
 
 https://www.linkedin.com/posts/burak-eraslan-731433176_mitsubishi-industrial-automation-activity-6804497337294102529-rmom?utm_source=linkedin_share&utm_medium=member_desktop_web
